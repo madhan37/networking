@@ -1,0 +1,15 @@
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/enums/DeviceType.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/model/Response.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/model/Request.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/exception/DeviceNotFoundException.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/controller/RequestController.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/constant/MessageConstants.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/service/impl/RequestServiceImpl.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/enums/CommandType.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/service/DeviceService.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/storage/DataStore.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/service/impl/DeviceServiceImpl.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/service/RequestService.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/model/Device.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/NetworkingApplication.java
+/home/ubuntu/Music/networking/src/main/java/com/ajiranet/networking/constant/Constants.java
